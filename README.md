@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-shell basic project
+my shell permission
